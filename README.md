@@ -12,6 +12,7 @@ first before diving into the code.
 
 ## Installation
 
+* Install [tkinter](https://docs.python.org/3/library/tkinter.html) (on Ubuntu `sudo apt-get install python3-tk`)
 * Create a [Virtual environment](https://virtualenv.pypa.io/en/latest/)
 * Install dependencies (`pip install -r requirements.txt`)
 * Run the code (`python3 grid_world.py`)
