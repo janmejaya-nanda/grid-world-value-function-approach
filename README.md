@@ -2,7 +2,7 @@
 
 Classic Grid World with Value Function Algorithm
 
-[![Watch the video](https://img.youtube.com/vi/epMfdTYatX0/default.jpg)](https://youtu.be/epMfdTYatX0)
+[![Watch the video](https://img.youtube.com/vi/epMfdTYatX0/hqdefault.jpg)](https://youtu.be/epMfdTYatX0)
 
 ### Prerequisites
 
