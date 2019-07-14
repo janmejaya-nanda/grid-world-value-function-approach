@@ -1,8 +1,8 @@
-# Project Title
+# GridWorld
 
 Classic Grid World with Value Function Algorithm
 
-[![Watch the video](https://img.youtube.com/vi/epMfdTYatX0/maxresdefault.jpg)](https://youtu.be/epMfdTYatX0)
+[![Watch the video](https://img.youtube.com/vi/epMfdTYatX0/default.jpg)](https://youtu.be/epMfdTYatX0)
 
 ### Prerequisites
 
